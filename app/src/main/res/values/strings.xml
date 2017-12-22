@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saving Key-Value Sets</string>
+    <string name="preference_file_key">abc</string>
+    <string name="saved_high_score">saved_high_score</string>
+</resources>
